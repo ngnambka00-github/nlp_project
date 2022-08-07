@@ -1,4 +1,7 @@
-image_captioning/data/*
-image_captioning/trained_model/*
+image_captioning/data/Images
+image_captioning/data/captions.txt
+image_captioning/data/features.pkl
+
+image_captioning/trained_model
 
 !.gitignore
