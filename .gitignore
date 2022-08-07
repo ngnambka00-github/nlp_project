@@ -1,2 +1,4 @@
 image_captioning/data/*
 image_captioning/trained_model/*
+
+!.gitignore
